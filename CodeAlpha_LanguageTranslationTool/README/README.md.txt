@@ -1,4 +1,8 @@
- 🌍 AI Language Translation Tool
+## Live Demo
+Run the project using:
+streamlit run app.py
+
+🌍 AI Language Translation Tool
 
 This project is developed as part of the CodeAlpha Artificial Intelligence Internship.
 
